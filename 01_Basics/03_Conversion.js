@@ -29,4 +29,10 @@
 // console.log("1" + 2 + 2)
 // console.log(1 + 2 + "2")
 
+console.log("2"  > 1)
 
+console.log(null == 0)
+console.log(null >= 0)
+
+//Comparison and equal to operator works differently.
+// Comparison converts null to a number
