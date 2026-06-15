@@ -19,3 +19,6 @@ const myFunc = function(){
 let OutsideTemp = null
 
 console.log(typeof(OutsideTemp)); //Object
+
+
+//Stack(Primitive)  Heap(Non-Primitive)
