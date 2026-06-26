@@ -18,3 +18,9 @@ accountCity = "Bardoli"
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
 console.log(accountId);
+
+const Id = 2
+let name = "Prem Javia"
+let password = "345"
+
+console.table([Id, name, password])
